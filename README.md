@@ -1,12 +1,9 @@
 # A-B-Testing
 A/B Testing of facebook bidding strategies
-#####################################################
-# AB Testi ile BiddingYöntemlerinin Dönüşümünün Karşılaştırılması
-#####################################################
 
-#####################################################
+# AB Testi ile BiddingYöntemlerinin Dönüşümünün Karşılaştırılması
+
 # İş Problemi
-#####################################################
 
 # Facebook kısa süre önce mevcut "maximumbidding" adı verilen teklif verme türüne alternatif
 # olarak yeni bir teklif türü olan "average bidding"’i tanıttı. Müşterilerimizden biri olanbombabomba.com,
